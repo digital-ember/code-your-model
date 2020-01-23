@@ -4,6 +4,7 @@
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/ddd/ddd.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/ddd/sandbox/ddd.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/ddd.editor.plugin/ddd.editor.plugin.msd" folder="" />
     </projectModules>
   </component>
 </project>
